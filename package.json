@@ -1,0 +1,17 @@
+{
+  "name": "fortis_web_2.2",
+  "version": "1.0.0",
+  "description": "Fortis Website 2.2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VictorJRamirez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mailchimp-api-v3": "^1.15.0"
+  }
+}
